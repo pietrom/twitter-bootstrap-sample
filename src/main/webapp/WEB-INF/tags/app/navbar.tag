@@ -5,11 +5,11 @@
 				<a class="btn btn-navbar" data-toggle="collapse"
 					data-target=".nav-collapse"> <span class="icon-bar"></span> <span
 					class="icon-bar"></span> <span class="icon-bar"></span>
-				</a> <a class="brand" href="#">Twitter Bootstrap Sample app</a>
+				</a> <a class="brand" href="<c:url value='/' />">Twitter Bootstrap Sample app</a>
 				<div class="nav-collapse collapse">
 					<ul class="nav">
-						<li class="active"><a href="#">Home</a></li>
-						<li><a href="#about"><c:url value="/about.jsp" /></a></li>
+						<li class="active"><a href="<c:url value='/' />">Home</a></li>
+						<li><a href="<c:url value='/about.jsp' />">About</a></li>
 						<li><a href="mailto:mail-address@my-mail-domain.com">Contact</a></li>
 					</ul>
 				</div>
