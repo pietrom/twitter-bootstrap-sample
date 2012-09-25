@@ -9,7 +9,7 @@
 				<div class="nav-collapse collapse">
 					<ul class="nav">
 						<li class="active"><a href="<c:url value='/' />">Home</a></li>
-						<li><a href="<c:url value='/about.jsp' />">About</a></li>
+						<li><a href="<c:url value='/infrastructure/about.jsp' />">About</a></li>
 						<li><a href="mailto:mail-address@my-mail-domain.com">Contact</a></li>
 					</ul>
 				</div>
